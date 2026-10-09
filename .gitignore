@@ -1,0 +1,9 @@
+client_secret_1029447910494-nu52uhoi1klttahgfq7g8jcg1tp3cv7a.apps.googleusercontent.com.json
+client_secret_1029447910494-oqsgqv125bf5gheu4mtm9ej2bk4peure.apps.googleusercontent.com.json
+credentials.json
+.env
+face_db/
+__pycache__
+tools/__pycache__
+venv_clean
+token.json

@@ -1,0 +1,108 @@
+2: stdlib
+3: chromadb
+4: numpy
+5: deepface
+2: stdlib
+3: chromadb
+4: numpy
+5: deepface (lazy)
+6: dotenv
+7: openai
+8: tts
+9: all imports done
+2: stdlib
+3: chromadb
+4: numpy
+5: deepface (lazy)
+6: dotenv
+7: openai
+8: tts
+9: all imports done
+2: stdlib
+3: chromadb
+4: numpy
+5: deepface (lazy)
+6: dotenv
+7: openai
+8: tts
+9: all imports done
+2: stdlib
+3: chromadb
+4: numpy
+5: deepface (lazy)
+6: dotenv
+7: openai
+8: tts
+9: all imports done
+2: stdlib
+3: chromadb
+4: numpy
+5: deepface (lazy)
+6: dotenv
+7: openai
+8: tts
+9: all imports done
+2: stdlib
+3: chromadb
+4: numpy
+5: deepface (lazy)
+6: dotenv
+7: openai
+8: tts
+9: all imports done
+2: stdlib
+3: chromadb
+4: numpy
+5: deepface (lazy)
+6: dotenv
+7: openai
+8: tts
+9: all imports done
+2: stdlib
+3: chromadb
+4: numpy
+5: deepface (lazy)
+6: dotenv
+7: openai
+8: tts
+9: all imports done
+2: stdlib
+3: chromadb
+4: numpy
+5: deepface (lazy)
+6: dotenv
+7: openai
+8: tts
+9: all imports done
+2: stdlib
+3: chromadb
+4: numpy
+5: deepface (lazy)
+6: dotenv
+7: openai
+8: tts
+9: all imports done
+2: stdlib
+3: chromadb
+4: numpy
+5: deepface (lazy)
+6: dotenv
+7: openai
+8: tts
+9: all imports done
+2: stdlib
+3: chromadb
+4: numpy
+5: deepface (lazy)
+6: dotenv
+7: openai
+8: tts
+9: all imports done
+2: stdlib
+3: chromadb
+4: numpy
+5: deepface (lazy)
+6: dotenv
+7: openai
+8: tts
+9: all imports done
